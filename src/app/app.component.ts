@@ -13,7 +13,7 @@ const config = {
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'chat-proj12';
+  title = 'chat-proj13';
   constructor() {
     firebase.initializeApp(config);
   }
